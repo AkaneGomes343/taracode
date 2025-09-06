@@ -10,3 +10,4 @@ Notes and usage details for taracode.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
