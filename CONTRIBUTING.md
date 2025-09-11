@@ -11,3 +11,4 @@ Notes and usage details for taracode.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
